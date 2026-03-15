@@ -23,7 +23,7 @@ I design systems for a living and mass-produce side projects for fun. The backlo
 A few public highlights:
 - **[threedepth](https://github.com/unstable-studios/threedepth)** — Render 3D models to depth maps. [threedepth.app](https://threedepth.app/)
 - **[gridfinity-studio](https://github.com/unstable-studios/gridfinity-studio)** — Lightweight 2.5D CAD app for Gridfinity layouts
-- **[baaa.sh](https://github.com/mkhnsn/baaa.sh)** — sheepsay as a service. Like cowsay, but fluffier.
+- **[baaa.sh](https://github.com/mkhnsn/baaa.sh)** — sheepsay as a service. Like cowsay, but fluffier. [baaa.sh](https://baaa.sh/)
 
 ## GitHub Stats
 
