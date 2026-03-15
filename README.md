@@ -18,8 +18,11 @@ I design systems for a living and mass-produce side projects for fun. The backlo
 
 ## Projects
 
-- **[Unstable Studios](https://unstablestudios.com)** — Platform and product studio. I build the infra and shared libraries that power everything.
-- **[Echo](https://github.com/unstable-studios)** — Shared TypeScript packages for auth, logging, file uploads, notifications, and more.
+**[Unstable Studios](https://github.com/unstable-studios)** · **[Autojuris AI](https://github.com/autojuris-ai)**
+
+A few public highlights:
+- **[threedepth](https://github.com/unstable-studios/threedepth)** — Render 3D models to depth maps. [threedepth.app](https://threedepth.app/)
+- **[gridfinity-studio](https://github.com/unstable-studios/gridfinity-studio)** — Lightweight 2.5D CAD app for Gridfinity layouts
 - **[baaa.sh](https://github.com/mkhnsn/baaa.sh)** — sheepsay as a service. Like cowsay, but fluffier.
 
 ## GitHub Stats
