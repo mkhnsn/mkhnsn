@@ -4,7 +4,7 @@
 I design systems for a living and mass-produce side projects for fun. The backlog is a feature, not a bug.
 
 - 🔧 Building platforms, dev tools, and shared libraries
-- ☁️ Deep in Cloudflare Workers, R2, and edge-first architecture
+- ☁️ Deep in Cloudflare Workers, R2, and edge-first architecture. [Just use Cloudflare.](https://justfuckingusecloudflare.com/)
 - 🏗️ Infrastructure as code enthusiast (yes, I enjoy writing Terraform)
 - 📚 Currently collecting hobbies faster than I can finish projects
 
